@@ -1,5 +1,8 @@
 <Page loaded="loaded">
     <StackLayout orientation="vertical">
-        <ListPicker items="{{ activities }}" textField="activity"/>
+        <TextField id="title" text="{{ title }}" hint="Title" autocorrect="false" />
+        <TextField id="description" text="{{ description }}" hint="Description"/>
+        <TextField id="max_size" text="{{ max_size }}" hint="Max participants"/>
+        <TextField id="category" text="{{ category }}" hint="Category"/>
     </StackLayout>
 </Page>

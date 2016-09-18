@@ -1,11 +1,11 @@
 <Page loaded="loaded">
     <StackLayout orientation="vertical">
-        <Image src="res://logo" stretch="none" horizontalAlignment="center" />
+        <Image src="~/images/pusheen.png" stretch="none" horizontalAlignment="center" />
 
         <TextField id="username" text="{{ username }}" hint="Username" autocorrect="false" autocapitalizationType="none" />
         <TextField id="password" text="{{ password }}" hint="Password" secure="true"/>
 
         <Button text="Sign in" tap="signIn"/>
-        <Button text="Register for an account" class="link" tap="register"/>
+        <Button text="Register for account" class="link" tap="register"/>
     </StackLayout>
 </Page>
