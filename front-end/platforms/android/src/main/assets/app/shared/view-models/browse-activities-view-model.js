@@ -15,7 +15,6 @@ function ActivityListViewModel(items) {
         .then(function(response) {
             return response.json();
         }).then(function(data) {
-            console.log(data.Result);
             for (var i = 0; i < data.length; i++) {
                 viewModel.push({
                     id: data[i].id,
