@@ -2,9 +2,41 @@ var config = require("../../shared/config");
 var fetchModule = require("fetch");
 var ObservableArray = require("data/observable-array").ObservableArray;
 
-function GroceryListViewModel(items) {
+function ActivityListViewModel(items) {
     var viewModel = new ObservableArray(items);
+
+    viewModel.load = function() {
+        return fetch(config.getActivitiesUrl, {
+            method: "GET",
+            headers: {
+            }
+        })
+        .then(handleErrors)
+        .then(function(response) {
+            return response.json();
+        }).then(function(data) {
+            data.Result.forEach(function(activity) {
+                viewModel.push(activity);
+                console.log(activity);
+            });
+        });
+    };
+
+    viewModel.empty = function() {
+        while (viewModel.length) {
+            viewModel.pop();
+        }
+    };
+
     return viewModel;
 }
 
-module.exports = GroceryListViewModel;
+function handleErrors(response) {
+    if (!response.ok) {
+        console.log(JSON.stringify(response));
+        throw Error(response.statusText);
+    }
+    return response;
+}
+
+module.exports = ActivityListViewModel;

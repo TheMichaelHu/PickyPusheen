@@ -1,4 +1,4 @@
-var config = require("../../shared/config.js");
+var config = require("../../shared/config");
 var fetchModule = require("fetch");
 var Observable = require("data/observable").Observable;
 
