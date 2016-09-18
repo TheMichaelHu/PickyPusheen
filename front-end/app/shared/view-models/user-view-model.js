@@ -16,20 +16,12 @@ function User(info) {
             headers: {
                 "Content-Type": "application/json"
             },
-<<<<<<< HEAD
             body: JSON.stringify({
-=======
-            payload: {
->>>>>>> master
                 user: {
                     username: viewModel.get("username"),
                     password: viewModel.get("password")
                 }
-<<<<<<< HEAD
             }),
-=======
-            },
->>>>>>> master
         })
         .then(handleErrors)
         .then(function (response) {
@@ -46,7 +38,6 @@ function User(info) {
             headers: {
                 "Content-Type": "application/json"
             },
-<<<<<<< HEAD
             body: JSON.stringify({
                 Email: viewModel.get("email"),
                 Username: viewModel.get("username"),
@@ -56,14 +47,6 @@ function User(info) {
         .then(function (response) {
             return response.json();
         });
-=======
-            payload: {
-                Email: viewModel.get("email"),
-                Username: viewModel.get("username"),
-                Password: viewModel.get("password")
-            },
-        }).then(handleErrors);
->>>>>>> master
     };
 
     return viewModel;
