@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/res/merged/F0/debug/values-v21/values-v21.xml",
+        "outputFile": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/res/merged/F0/debug/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/values-v21/colors.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
@@ -31,7 +31,7 @@
                     "endOffset": 311
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/values-v21/styles.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/values-v21/styles.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 402
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 608
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 713
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 820
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 929
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 1038
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 1147
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 1256
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1365
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1472
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1575
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1694
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -299,7 +299,7 @@
                     "endOffset": 1849
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -320,7 +320,7 @@
                     "endOffset": 2004
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 2109
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 2230
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -378,7 +378,7 @@
                     "endOffset": 2331
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -398,7 +398,7 @@
                     "endOffset": 2478
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -419,7 +419,7 @@
                     "endOffset": 2619
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -439,7 +439,7 @@
                     "endOffset": 2722
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -458,7 +458,7 @@
                     "endOffset": 2841
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -477,7 +477,7 @@
                     "endOffset": 2948
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -496,7 +496,7 @@
                     "endOffset": 3051
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -516,7 +516,7 @@
                     "endOffset": 3206
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 3377
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 3526
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3691
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3848
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 3999
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -641,7 +641,7 @@
                     "endOffset": 4118
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -656,19 +656,59 @@
                     "startLine": 48,
                     "startColumn": 4,
                     "startOffset": 4123,
-                    "endLine": 52,
+                    "endLine": 49,
                     "endColumn": 12,
-                    "endOffset": 4490
+                    "endOffset": 4267
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
                         "startOffset": 3862,
-                        "endLine": 47,
+                        "endLine": 44,
                         "endColumn": 12,
-                        "endOffset": 4229
+                        "endOffset": 4006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4272,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 4416
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4011,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 4155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4421,
+                    "endColumn": 111,
+                    "endOffset": 4528
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4160,
+                        "endColumn": 111,
+                        "endOffset": 4267
                     }
                 }
             },
@@ -676,60 +716,60 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 4495,
-                    "endLine": 54,
-                    "endColumn": 12,
-                    "endOffset": 4639
+                    "startOffset": 4533,
+                    "endColumn": 146,
+                    "endOffset": 4675
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 4234,
-                        "endLine": 49,
-                        "endColumn": 12,
-                        "endOffset": 4378
+                        "startOffset": 4272,
+                        "endColumn": 146,
+                        "endOffset": 4414
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 4644,
-                    "endLine": 56,
+                    "startOffset": 4680,
+                    "endLine": 55,
                     "endColumn": 12,
-                    "endOffset": 4788
+                    "endOffset": 4828
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 50,
+                        "startLine": 49,
                         "startColumn": 4,
-                        "startOffset": 4383,
-                        "endLine": 51,
+                        "startOffset": 4419,
+                        "endLine": 50,
                         "endColumn": 12,
-                        "endOffset": 4527
+                        "endOffset": 4567
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 4793,
-                    "endColumn": 111,
-                    "endOffset": 4900
+                    "startOffset": 4833,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4975
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 52,
+                        "startLine": 51,
                         "startColumn": 4,
-                        "startOffset": 4532,
-                        "endColumn": 111,
-                        "endOffset": 4639
+                        "startOffset": 4572,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 4714
                     }
                 }
             },
@@ -737,18 +777,18 @@
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 4905,
-                    "endColumn": 146,
-                    "endOffset": 5047
+                    "startOffset": 4980,
+                    "endColumn": 74,
+                    "endOffset": 5050
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 4644,
-                        "endColumn": 146,
-                        "endOffset": 4786
+                        "startOffset": 4719,
+                        "endColumn": 74,
+                        "endOffset": 4789
                     }
                 }
             },
@@ -756,20 +796,37 @@
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 5052,
-                    "endLine": 60,
-                    "endColumn": 12,
-                    "endOffset": 5200
+                    "startOffset": 5055,
+                    "endColumn": 88,
+                    "endOffset": 5139
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 4791,
-                        "endLine": 55,
-                        "endColumn": 12,
-                        "endOffset": 4939
+                        "startOffset": 4794,
+                        "endColumn": 88,
+                        "endOffset": 4878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5144,
+                    "endColumn": 86,
+                    "endOffset": 5226
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4883,
+                        "endColumn": 86,
+                        "endOffset": 4965
                     }
                 }
             },
@@ -777,199 +834,165 @@
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 5205,
-                    "endLine": 62,
-                    "endColumn": 12,
-                    "endOffset": 5347
+                    "startOffset": 5231,
+                    "endColumn": 100,
+                    "endOffset": 5327
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 4944,
-                        "endLine": 57,
-                        "endColumn": 12,
-                        "endOffset": 5086
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 63,
-                    "startColumn": 4,
-                    "startOffset": 5352,
-                    "endColumn": 74,
-                    "endOffset": 5422
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 58,
-                        "startColumn": 4,
-                        "startOffset": 5091,
-                        "endColumn": 74,
-                        "endOffset": 5161
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 64,
-                    "startColumn": 4,
-                    "startOffset": 5427,
-                    "endColumn": 88,
-                    "endOffset": 5511
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 59,
-                        "startColumn": 4,
-                        "startOffset": 5166,
-                        "endColumn": 88,
-                        "endOffset": 5250
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 65,
-                    "startColumn": 4,
-                    "startOffset": 5516,
-                    "endColumn": 86,
-                    "endOffset": 5598
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 60,
-                        "startColumn": 4,
-                        "startOffset": 5255,
-                        "endColumn": 86,
-                        "endOffset": 5337
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 66,
-                    "startColumn": 4,
-                    "startOffset": 5603,
-                    "endColumn": 100,
-                    "endOffset": 5699
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 61,
-                        "startColumn": 4,
-                        "startOffset": 5342,
+                        "startOffset": 4970,
                         "endColumn": 100,
-                        "endOffset": 5438
+                        "endOffset": 5066
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5704,
-                    "endColumn": 102,
-                    "endOffset": 5802
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 62,
-                        "startColumn": 4,
-                        "startOffset": 5443,
-                        "endColumn": 102,
-                        "endOffset": 5541
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 68,
-                    "startColumn": 4,
-                    "startOffset": 5807,
-                    "endLine": 111,
+                    "startOffset": 5332,
+                    "endLine": 105,
                     "endColumn": 12,
-                    "endOffset": 8870
+                    "endOffset": 8395
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 63,
+                        "startLine": 57,
                         "startColumn": 4,
-                        "startOffset": 5546,
-                        "endLine": 106,
+                        "startOffset": 5071,
+                        "endLine": 100,
                         "endColumn": 12,
-                        "endOffset": 8609
+                        "endOffset": 8134
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 112,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 8875,
-                    "endLine": 114,
+                    "startOffset": 8400,
+                    "endLine": 108,
                     "endColumn": 12,
-                    "endOffset": 9056
+                    "endOffset": 8581
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 107,
+                        "startLine": 101,
                         "startColumn": 4,
-                        "startOffset": 8614,
-                        "endLine": 109,
+                        "startOffset": 8139,
+                        "endLine": 103,
                         "endColumn": 12,
-                        "endOffset": 8795
+                        "endOffset": 8320
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 115,
+                    "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 9061,
-                    "endLine": 158,
+                    "startOffset": 8586,
+                    "endLine": 152,
                     "endColumn": 12,
-                    "endOffset": 12136
+                    "endOffset": 11661
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 110,
+                        "startLine": 104,
                         "startColumn": 4,
-                        "startOffset": 8800,
-                        "endLine": 153,
+                        "startOffset": 8325,
+                        "endLine": 147,
                         "endColumn": 12,
-                        "endOffset": 11875
+                        "endOffset": 11400
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 159,
+                    "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 12141,
+                    "startOffset": 11666,
+                    "endLine": 155,
+                    "endColumn": 12,
+                    "endOffset": 11859
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 11405,
+                        "endLine": 150,
+                        "endColumn": 12,
+                        "endOffset": 11598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 11864,
+                    "endLine": 157,
+                    "endColumn": 12,
+                    "endOffset": 11982
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 11603,
+                        "endLine": 152,
+                        "endColumn": 12,
+                        "endOffset": 11721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 11987,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 12105
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 11726,
+                        "endLine": 154,
+                        "endColumn": 12,
+                        "endOffset": 11844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 12110,
                     "endLine": 161,
                     "endColumn": 12,
-                    "endOffset": 12334
+                    "endOffset": 12218
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 154,
+                        "startLine": 155,
                         "startColumn": 4,
-                        "startOffset": 11880,
+                        "startOffset": 11849,
                         "endLine": 156,
                         "endColumn": 12,
-                        "endOffset": 12073
+                        "endOffset": 11957
                     }
                 }
             },
@@ -977,20 +1000,20 @@
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 12339,
+                    "startOffset": 12223,
                     "endLine": 164,
                     "endColumn": 12,
-                    "endOffset": 12534
+                    "endOffset": 12401
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
-                        "startOffset": 12078,
+                        "startOffset": 11962,
                         "endLine": 159,
                         "endColumn": 12,
-                        "endOffset": 12273
+                        "endOffset": 12140
                     }
                 }
             },
@@ -998,20 +1021,20 @@
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 12539,
+                    "startOffset": 12406,
                     "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 12657
+                    "endOffset": 12532
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
-                        "startOffset": 12278,
+                        "startOffset": 12145,
                         "endLine": 161,
                         "endColumn": 12,
-                        "endOffset": 12396
+                        "endOffset": 12271
                     }
                 }
             },
@@ -1019,41 +1042,39 @@
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 12662,
-                    "endLine": 168,
+                    "startOffset": 12537,
+                    "endLine": 169,
                     "endColumn": 12,
-                    "endOffset": 12780
+                    "endOffset": 12733
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
-                        "startOffset": 12401,
-                        "endLine": 163,
+                        "startOffset": 12276,
+                        "endLine": 164,
                         "endColumn": 12,
-                        "endOffset": 12519
+                        "endOffset": 12472
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 169,
+                    "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 12785,
-                    "endLine": 170,
-                    "endColumn": 12,
-                    "endOffset": 12893
+                    "startOffset": 12738,
+                    "endColumn": 88,
+                    "endOffset": 12822
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 164,
+                        "startLine": 165,
                         "startColumn": 4,
-                        "startOffset": 12524,
-                        "endLine": 165,
-                        "endColumn": 12,
-                        "endOffset": 12632
+                        "startOffset": 12477,
+                        "endColumn": 88,
+                        "endOffset": 12561
                     }
                 }
             },
@@ -1061,20 +1082,56 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 12898,
-                    "endLine": 173,
-                    "endColumn": 12,
-                    "endOffset": 13076
+                    "startOffset": 12827,
+                    "endColumn": 110,
+                    "endOffset": 12933
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
-                        "startOffset": 12637,
-                        "endLine": 168,
-                        "endColumn": 12,
-                        "endOffset": 12815
+                        "startOffset": 12566,
+                        "endColumn": 110,
+                        "endOffset": 12672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 12938,
+                    "endColumn": 126,
+                    "endOffset": 13060
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 12677,
+                        "endColumn": 126,
+                        "endOffset": 12799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 13065,
+                    "endColumn": 100,
+                    "endOffset": 13161
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 12804,
+                        "endColumn": 100,
+                        "endOffset": 12900
                     }
                 }
             },
@@ -1082,20 +1139,37 @@
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 13081,
-                    "endLine": 175,
-                    "endColumn": 12,
-                    "endOffset": 13207
+                    "startOffset": 13166,
+                    "endColumn": 94,
+                    "endOffset": 13256
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
-                        "startOffset": 12820,
-                        "endLine": 170,
-                        "endColumn": 12,
-                        "endOffset": 12946
+                        "startOffset": 12905,
+                        "endColumn": 94,
+                        "endOffset": 12995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13261,
+                    "endColumn": 122,
+                    "endOffset": 13379
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 13000,
+                        "endColumn": 122,
+                        "endOffset": 13118
                     }
                 }
             },
@@ -1103,58 +1177,58 @@
                 "to": {
                     "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 13212,
-                    "endLine": 178,
-                    "endColumn": 12,
-                    "endOffset": 13408
+                    "startOffset": 13384,
+                    "endColumn": 128,
+                    "endOffset": 13508
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
-                        "startOffset": 12951,
-                        "endLine": 173,
+                        "startOffset": 13123,
+                        "endColumn": 128,
+                        "endOffset": 13247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13513,
+                    "endColumn": 116,
+                    "endOffset": 13625
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 13252,
+                        "endColumn": 116,
+                        "endOffset": 13364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 13630,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 13802
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 13369,
+                        "endLine": 175,
                         "endColumn": 12,
-                        "endOffset": 13147
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 179,
-                    "startColumn": 4,
-                    "startOffset": 13413,
-                    "endColumn": 88,
-                    "endOffset": 13497
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 174,
-                        "startColumn": 4,
-                        "startOffset": 13152,
-                        "endColumn": 88,
-                        "endOffset": 13236
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 180,
-                    "startColumn": 4,
-                    "startOffset": 13502,
-                    "endColumn": 110,
-                    "endOffset": 13608
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 175,
-                        "startColumn": 4,
-                        "startOffset": 13241,
-                        "endColumn": 110,
-                        "endOffset": 13347
+                        "endOffset": 13541
                     }
                 }
             },
@@ -1162,20 +1236,39 @@
                 "to": {
                     "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 13613,
-                    "endLine": 183,
-                    "endColumn": 12,
-                    "endOffset": 13841
+                    "startOffset": 13807,
+                    "endColumn": 98,
+                    "endOffset": 13901
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
-                        "startOffset": 13352,
+                        "startOffset": 13546,
+                        "endColumn": 98,
+                        "endOffset": 13640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13906,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 14036
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 13645,
                         "endLine": 178,
                         "endColumn": 12,
-                        "endOffset": 13580
+                        "endOffset": 13775
                     }
                 }
             },
@@ -1183,37 +1276,20 @@
                 "to": {
                     "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 13846,
-                    "endColumn": 100,
-                    "endOffset": 13942
+                    "startOffset": 14041,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 14179
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
-                        "startOffset": 13585,
-                        "endColumn": 100,
-                        "endOffset": 13681
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 185,
-                    "startColumn": 4,
-                    "startOffset": 13947,
-                    "endColumn": 94,
-                    "endOffset": 14037
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 180,
-                        "startColumn": 4,
-                        "startOffset": 13686,
-                        "endColumn": 94,
-                        "endOffset": 13776
+                        "startOffset": 13780,
+                        "endLine": 180,
+                        "endColumn": 12,
+                        "endOffset": 13918
                     }
                 }
             },
@@ -1221,37 +1297,20 @@
                 "to": {
                     "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 14042,
-                    "endColumn": 122,
-                    "endOffset": 14160
+                    "startOffset": 14184,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 14314
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
-                        "startOffset": 13781,
-                        "endColumn": 122,
-                        "endOffset": 13899
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 187,
-                    "startColumn": 4,
-                    "startOffset": 14165,
-                    "endColumn": 128,
-                    "endOffset": 14289
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 182,
-                        "startColumn": 4,
-                        "startOffset": 13904,
-                        "endColumn": 128,
-                        "endOffset": 14028
+                        "startOffset": 13923,
+                        "endLine": 182,
+                        "endColumn": 12,
+                        "endOffset": 14053
                     }
                 }
             },
@@ -1259,100 +1318,81 @@
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 14294,
-                    "endColumn": 116,
-                    "endOffset": 14406
+                    "startOffset": 14319,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 14433
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
-                        "startOffset": 14033,
-                        "endColumn": 116,
-                        "endOffset": 14145
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 189,
-                    "startColumn": 4,
-                    "startOffset": 14411,
-                    "endLine": 191,
-                    "endColumn": 12,
-                    "endOffset": 14583
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 184,
-                        "startColumn": 4,
-                        "startOffset": 14150,
-                        "endLine": 186,
+                        "startOffset": 14058,
+                        "endLine": 184,
                         "endColumn": 12,
-                        "endOffset": 14322
+                        "endOffset": 14172
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 14588,
-                    "endColumn": 98,
-                    "endOffset": 14682
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 187,
-                        "startColumn": 4,
-                        "startOffset": 14327,
-                        "endColumn": 98,
-                        "endOffset": 14421
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 193,
-                    "startColumn": 4,
-                    "startOffset": 14687,
-                    "endLine": 194,
+                    "startOffset": 14438,
+                    "endLine": 193,
                     "endColumn": 12,
-                    "endOffset": 14817
+                    "endOffset": 14634
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 188,
+                        "startLine": 185,
                         "startColumn": 4,
-                        "startOffset": 14426,
-                        "endLine": 189,
+                        "startOffset": 14177,
+                        "endLine": 188,
                         "endColumn": 12,
-                        "endOffset": 14556
+                        "endOffset": 14373
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 195,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14822,
-                    "endLine": 196,
+                    "startOffset": 14639,
+                    "endLine": 195,
                     "endColumn": 12,
-                    "endOffset": 14960
+                    "endOffset": 14753
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 190,
+                        "startLine": 189,
                         "startColumn": 4,
-                        "startOffset": 14561,
-                        "endLine": 191,
+                        "startOffset": 14378,
+                        "endLine": 190,
                         "endColumn": 12,
-                        "endOffset": 14699
+                        "endOffset": 14492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14758,
+                    "endColumn": 92,
+                    "endOffset": 14846
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 14497,
+                        "endColumn": 92,
+                        "endOffset": 14585
                     }
                 }
             },
@@ -1360,20 +1400,37 @@
                 "to": {
                     "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 14965,
-                    "endLine": 198,
-                    "endColumn": 12,
-                    "endOffset": 15095
+                    "startOffset": 14851,
+                    "endColumn": 110,
+                    "endOffset": 14957
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
-                        "startOffset": 14704,
-                        "endLine": 193,
-                        "endColumn": 12,
-                        "endOffset": 14834
+                        "startOffset": 14590,
+                        "endColumn": 110,
+                        "endOffset": 14696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 14962,
+                    "endColumn": 55,
+                    "endOffset": 15013
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 14701,
+                        "endColumn": 55,
+                        "endOffset": 14752
                     }
                 }
             },
@@ -1381,20 +1438,20 @@
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 15100,
+                    "startOffset": 15018,
                     "endLine": 200,
                     "endColumn": 12,
-                    "endOffset": 15214
+                    "endOffset": 15120
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
-                        "startOffset": 14839,
+                        "startOffset": 14757,
                         "endLine": 195,
                         "endColumn": 12,
-                        "endOffset": 14953
+                        "endOffset": 14859
                     }
                 }
             },
@@ -1402,20 +1459,20 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 15219,
+                    "startOffset": 15125,
                     "endLine": 204,
                     "endColumn": 12,
-                    "endOffset": 15415
+                    "endOffset": 15315
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
-                        "startOffset": 14958,
+                        "startOffset": 14864,
                         "endLine": 199,
                         "endColumn": 12,
-                        "endOffset": 15154
+                        "endOffset": 15054
                     }
                 }
             },
@@ -1423,20 +1480,20 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 15420,
+                    "startOffset": 15320,
                     "endLine": 206,
                     "endColumn": 12,
-                    "endOffset": 15534
+                    "endOffset": 15426
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
-                        "startOffset": 15159,
+                        "startOffset": 15059,
                         "endLine": 201,
                         "endColumn": 12,
-                        "endOffset": 15273
+                        "endOffset": 15165
                     }
                 }
             },
@@ -1444,37 +1501,20 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 15539,
-                    "endColumn": 92,
-                    "endOffset": 15627
+                    "startOffset": 15431,
+                    "endLine": 208,
+                    "endColumn": 12,
+                    "endOffset": 15559
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
-                        "startOffset": 15278,
-                        "endColumn": 92,
-                        "endOffset": 15366
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 208,
-                    "startColumn": 4,
-                    "startOffset": 15632,
-                    "endColumn": 110,
-                    "endOffset": 15738
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 203,
-                        "startColumn": 4,
-                        "startOffset": 15371,
-                        "endColumn": 110,
-                        "endOffset": 15477
+                        "startOffset": 15170,
+                        "endLine": 203,
+                        "endColumn": 12,
+                        "endOffset": 15298
                     }
                 }
             },
@@ -1482,18 +1522,18 @@
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 15743,
-                    "endColumn": 55,
-                    "endOffset": 15794
+                    "startOffset": 15564,
+                    "endColumn": 94,
+                    "endOffset": 15654
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
-                        "startOffset": 15482,
-                        "endColumn": 55,
-                        "endOffset": 15533
+                        "startOffset": 15303,
+                        "endColumn": 94,
+                        "endOffset": 15393
                     }
                 }
             },
@@ -1501,20 +1541,37 @@
                 "to": {
                     "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 15799,
-                    "endLine": 211,
-                    "endColumn": 12,
-                    "endOffset": 15901
+                    "startOffset": 15659,
+                    "endColumn": 90,
+                    "endOffset": 15745
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
-                        "startOffset": 15538,
-                        "endLine": 206,
-                        "endColumn": 12,
-                        "endOffset": 15640
+                        "startOffset": 15398,
+                        "endColumn": 90,
+                        "endOffset": 15484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15750,
+                    "endColumn": 90,
+                    "endOffset": 15836
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 15489,
+                        "endColumn": 90,
+                        "endOffset": 15575
                     }
                 }
             },
@@ -1522,173 +1579,53 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15906,
-                    "endLine": 215,
-                    "endColumn": 12,
-                    "endOffset": 16096
+                    "startOffset": 15841,
+                    "endColumn": 116,
+                    "endOffset": 15953
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
-                        "startOffset": 15645,
-                        "endLine": 210,
-                        "endColumn": 12,
-                        "endOffset": 15835
+                        "startOffset": 15580,
+                        "endColumn": 116,
+                        "endOffset": 15692
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 216,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 16101,
+                    "startOffset": 15958,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 16092
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 15697,
+                        "endLine": 209,
+                        "endColumn": 12,
+                        "endOffset": 15831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16097,
                     "endLine": 217,
                     "endColumn": 12,
-                    "endOffset": 16207
+                    "endOffset": 16237
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 211,
-                        "startColumn": 4,
-                        "startOffset": 15840,
-                        "endLine": 212,
-                        "endColumn": 12,
-                        "endOffset": 15946
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 218,
-                    "startColumn": 4,
-                    "startOffset": 16212,
-                    "endLine": 219,
-                    "endColumn": 12,
-                    "endOffset": 16340
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 213,
-                        "startColumn": 4,
-                        "startOffset": 15951,
-                        "endLine": 214,
-                        "endColumn": 12,
-                        "endOffset": 16079
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 220,
-                    "startColumn": 4,
-                    "startOffset": 16345,
-                    "endColumn": 94,
-                    "endOffset": 16435
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 215,
-                        "startColumn": 4,
-                        "startOffset": 16084,
-                        "endColumn": 94,
-                        "endOffset": 16174
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 221,
-                    "startColumn": 4,
-                    "startOffset": 16440,
-                    "endColumn": 90,
-                    "endOffset": 16526
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 216,
-                        "startColumn": 4,
-                        "startOffset": 16179,
-                        "endColumn": 90,
-                        "endOffset": 16265
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 222,
-                    "startColumn": 4,
-                    "startOffset": 16531,
-                    "endColumn": 90,
-                    "endOffset": 16617
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 217,
-                        "startColumn": 4,
-                        "startOffset": 16270,
-                        "endColumn": 90,
-                        "endOffset": 16356
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 223,
-                    "startColumn": 4,
-                    "startOffset": 16622,
-                    "endColumn": 116,
-                    "endOffset": 16734
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 218,
-                        "startColumn": 4,
-                        "startOffset": 16361,
-                        "endColumn": 116,
-                        "endOffset": 16473
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 224,
-                    "startColumn": 4,
-                    "startOffset": 16739,
-                    "endLine": 225,
-                    "endColumn": 12,
-                    "endOffset": 16873
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 219,
-                        "startColumn": 4,
-                        "startOffset": 16478,
-                        "endLine": 220,
-                        "endColumn": 12,
-                        "endOffset": 16612
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 226,
-                    "startColumn": 4,
-                    "startOffset": 16878,
-                    "endLine": 228,
-                    "endColumn": 12,
-                    "endOffset": 17018
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/values-v21/styles.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/values-v21/styles.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1701,43 +1638,83 @@
             },
             {
                 "to": {
-                    "startLine": 229,
+                    "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 17023,
-                    "endLine": 238,
+                    "startOffset": 16242,
+                    "endLine": 227,
                     "endColumn": 12,
-                    "endOffset": 17531
+                    "endOffset": 16750
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 221,
+                        "startLine": 210,
                         "startColumn": 4,
-                        "startOffset": 16617,
-                        "endLine": 230,
+                        "startOffset": 15836,
+                        "endLine": 219,
                         "endColumn": 12,
-                        "endOffset": 17125
+                        "endOffset": 16344
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 239,
+                    "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 17536,
-                    "endLine": 248,
+                    "startOffset": 16755,
+                    "endLine": 237,
                     "endColumn": 12,
-                    "endOffset": 18056
+                    "endOffset": 17275
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 231,
+                        "startLine": 220,
                         "startColumn": 4,
-                        "startOffset": 17130,
-                        "endLine": 240,
+                        "startOffset": 16349,
+                        "endLine": 229,
                         "endColumn": 12,
-                        "endOffset": 17650
+                        "endOffset": 16869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 17280,
+                    "endLine": 247,
+                    "endColumn": 12,
+                    "endOffset": 17955
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 16874,
+                        "endLine": 239,
+                        "endColumn": 12,
+                        "endOffset": 17549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 17960,
+                    "endColumn": 56,
+                    "endOffset": 18012
+                },
+                "from": {
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 17554,
+                        "endColumn": 56,
+                        "endOffset": 17606
                     }
                 }
             },
@@ -1745,72 +1722,32 @@
                 "to": {
                     "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 18061,
-                    "endLine": 258,
-                    "endColumn": 12,
-                    "endOffset": 18736
+                    "startOffset": 18017,
+                    "endColumn": 57,
+                    "endOffset": 18070
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
-                        "startOffset": 17655,
-                        "endLine": 250,
-                        "endColumn": 12,
-                        "endOffset": 18330
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 259,
-                    "startColumn": 4,
-                    "startOffset": 18741,
-                    "endColumn": 56,
-                    "endOffset": 18793
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 251,
-                        "startColumn": 4,
-                        "startOffset": 18335,
-                        "endColumn": 56,
-                        "endOffset": 18387
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 260,
-                    "startColumn": 4,
-                    "startOffset": 18798,
-                    "endColumn": 57,
-                    "endOffset": 18851
-                },
-                "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 252,
-                        "startColumn": 4,
-                        "startOffset": 18392,
+                        "startOffset": 17611,
                         "endColumn": 57,
-                        "endOffset": 18445
+                        "endOffset": 17664
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 261,
+                    "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 18856,
-                    "endLine": 263,
+                    "startOffset": 18075,
+                    "endLine": 252,
                     "endColumn": 12,
-                    "endOffset": 19010
+                    "endOffset": 18229
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/values-v21/styles.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/values-v21/styles.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1823,15 +1760,15 @@
             },
             {
                 "to": {
-                    "startLine": 264,
+                    "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 19015,
-                    "endLine": 266,
+                    "startOffset": 18234,
+                    "endLine": 255,
                     "endColumn": 12,
-                    "endOffset": 19169
+                    "endOffset": 18388
                 },
                 "from": {
-                    "file": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/values-v21/styles.xml",
+                    "file": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/values-v21/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
