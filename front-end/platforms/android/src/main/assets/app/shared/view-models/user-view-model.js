@@ -19,7 +19,8 @@ function User(info) {
             body: JSON.stringify({
                 user: {
                     username: viewModel.get("username"),
-                    password: viewModel.get("password")
+                    password: viewModel.get("password"),
+                    remember_me: 1
                 }
             }),
         })

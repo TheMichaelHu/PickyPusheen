@@ -1,4 +1,4 @@
-var UserViewModel = require("shared/view-models/user-view-model");
+var UserViewModel = require("~/shared/view-models/user-view-model");
 var frameModule = require("ui/frame");
 var dialogsModule = require("ui/dialogs");
 

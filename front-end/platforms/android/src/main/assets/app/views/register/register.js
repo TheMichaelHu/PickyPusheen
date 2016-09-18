@@ -24,17 +24,18 @@ exports.createAccount = function() {
     password = page.getViewById("password");
 
     user.register()
-    .catch(function(error) {
-        console.log("Error with register: " + error);
-
-        dialogsModule.alert({
-            message: "There was error with registering your account",
-            okButtonText: "OK"
+        .then(function() {
+            dialogsModule
+                .alert("Account successfully created.")
+                .then(function() {
+                    frameModule.topmost().navigate("views/login/login");
+                });
+        }).catch(function(error) {
+            console.log(error);
+            dialogsModule
+                .alert({
+                    message: "Unable to create account.",
+                    okButtonText: "OK"
+                });
         });
-
-        return Promise.reject();
-    })
-    .then(function() {
-        frameModule.topmost().navigate("views/login/login");
-    });
 };
