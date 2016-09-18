@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.4.0_9b8ad4c5eaeeccb7cf56081aa2bb2b1db415c624.jar" />
-    </item>
-    <item
         jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/PickyPusheen/runtime/unspecified/jars/libs/binding-generator.jar"
         jumboMode="false"
         revision="23.0.3"
@@ -16,32 +9,11 @@
         <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_4f07f188ab5bd394c142c52a469086c60ed9a430.jar" />
     </item>
     <item
-        jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.4.0_7ce1267cc5109ee47fb9be42ae25c69c53ff2501.jar" />
-    </item>
-    <item
         jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
         <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-23.4.0_4b8072c9a405521f39da33a9c4b99ea380131d26.jar" />
-    </item>
-    <item
-        jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/PickyPusheen/runtime/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
-        <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/PickyPusheen-runtime-unspecified_b92fc1f65bed498a3feba1f4692b5553a17ce28e.jar" />
-    </item>
-    <item
-        jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-23.4.0_640fa97e4a3fa41a461644082d2c9c7b18c6a6b6.jar" />
     </item>
     <item
         jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
@@ -56,6 +28,34 @@
         revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
         <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.4.0_99ed9948d860b95ec784cc23eb6a0750ee387869.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.4.0_9b8ad4c5eaeeccb7cf56081aa2bb2b1db415c624.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.4.0_7ce1267cc5109ee47fb9be42ae25c69c53ff2501.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/PickyPusheen/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/PickyPusheen-runtime-unspecified_b92fc1f65bed498a3feba1f4692b5553a17ce28e.jar" />
+    </item>
+    <item
+        jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-23.4.0_640fa97e4a3fa41a461644082d2c9c7b18c6a6b6.jar" />
     </item>
     <item
         jar="/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
