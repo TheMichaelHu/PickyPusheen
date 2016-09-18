@@ -5,7 +5,7 @@ class ActivitiesController < ApplicationController
     user = User.find(params[:user_id])
     friend_ids = user.friends.map(&:id)
     swiped = user.swipes.map(&:activity_id)
-    render :json => Activity.where(user_id: friend_ids).where.not(id: swiped)
+    render :json => Activity.order(created_at: :desc).where(user_id: friend_ids).where.not(id: swiped)
   end
 
   def create
