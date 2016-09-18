@@ -16,12 +16,12 @@ function User(info) {
             headers: {
                 "Content-Type": "application/json"
             },
-            payload: {
+            body: JSON.stringify({
                 user: {
                     username: viewModel.get("username"),
                     password: viewModel.get("password")
                 }
-            },
+            }),
         })
         .then(handleErrors)
         .then(function (response) {
@@ -38,12 +38,15 @@ function User(info) {
             headers: {
                 "Content-Type": "application/json"
             },
-            payload: {
+            body: JSON.stringify({
                 Email: viewModel.get("email"),
                 Username: viewModel.get("username"),
                 Password: viewModel.get("password")
-            },
-        }).then(handleErrors);
+            }),
+        }).then(handleErrors)
+        .then(function (response) {
+            return response.json();
+        });
     };
 
     return viewModel;
