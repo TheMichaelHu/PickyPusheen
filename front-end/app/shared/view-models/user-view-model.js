@@ -6,9 +6,25 @@ function User(info) {
     info = info || {};
 
     var viewModel = new Observable({
-        username: info.username || "",
+        email: info.email || "",
         password: info.password || ""
     });
+
+    var serializeJSON = function(data) {
+        return Object.keys(data).map(function (keyName) {
+            return encodeURIComponent(keyName) + '=' + encodeURIComponent(data[keyName]);
+        }).join('&');
+    };
+
+    var data = {
+        "users": {
+            "email": viewModel.get("email"),
+            "password": viewModel.get("password"),
+            "password_confirmation": viewModel.get("password")
+        }
+    };
+
+    var playload = JSON.stringify(data);
 
     viewModel.login = function() {
         return fetchModule.fetch(config.signinUrl, {
@@ -40,10 +56,12 @@ function User(info) {
                 "Content-Type": "application/json"
             },
             body: JSON.stringify({
-                Email: viewModel.get("email"),
-                Username: viewModel.get("username"),
-                Password: viewModel.get("password")
-            }),
+                "users": {
+                    "email": viewModel.get("email"),
+                    "password": viewModel.get("password"),
+                    "password_confirmation": viewModel.get("password")
+                }
+            })
         }).then(handleErrors)
         .then(function (response) {
             return response.json();
