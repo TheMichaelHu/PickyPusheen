@@ -1,6 +1,5 @@
 class ActivitiesController < ApplicationController
   skip_before_action :verify_authenticity_token
-  before_filter :authenticate_user!
 
   def index
     user = User.find(params[:user_id])

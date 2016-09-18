@@ -1,6 +1,5 @@
 class ButtonsController < ApplicationController
   skip_before_action :verify_authenticity_token
-  before_filter :authenticate_user!, except: [:press]
 
   def create
     user = User.find(params[:user_id])
