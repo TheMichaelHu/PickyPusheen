@@ -2,7 +2,7 @@
   "_args": [
     [
       "tns-core-modules-widgets@2.3.0",
-      "/home/matt/Documents/HackMIT/PickyPusheen/node_modules/tns-core-modules"
+      "/home/michael/Documents/Projects/PickyPusheen/front-end/node_modules/tns-core-modules"
     ]
   ],
   "_from": "tns-core-modules-widgets@2.3.0",
@@ -36,7 +36,7 @@
   "_shasum": "19d902b6c77e0ef47687b9098b595a6b527db447",
   "_shrinkwrap": null,
   "_spec": "tns-core-modules-widgets@2.3.0",
-  "_where": "/home/matt/Documents/HackMIT/PickyPusheen/node_modules/tns-core-modules",
+  "_where": "/home/michael/Documents/Projects/PickyPusheen/front-end/node_modules/tns-core-modules",
   "author": {
     "name": "NativeScript team"
   },
@@ -55,48 +55,48 @@
   "license": "Apache-2.0",
   "maintainers": [
     {
-      "name": "nativescript",
-      "email": "nativescript@telerik.com"
+      "email": "vladimir.enchev@gmail.com",
+      "name": "enchev"
     },
     {
-      "name": "enchev",
-      "email": "vladimir.enchev@gmail.com"
+      "email": "erjan.gavalji@gmail.com",
+      "name": "erjangavalji"
     },
     {
-      "name": "hamorphis",
-      "email": "rossen.hristov@progress.com"
+      "email": "rossen.hristov@progress.com",
+      "name": "hamorphis"
     },
     {
-      "name": "hdeshev",
-      "email": "hristo@deshev.com"
+      "email": "hristo@deshev.com",
+      "name": "hdeshev"
     },
     {
-      "name": "hhristov",
-      "email": "hristo.hristov@outlook.com"
+      "email": "hristo.hristov@outlook.com",
+      "name": "hhristov"
     },
     {
-      "name": "erjangavalji",
-      "email": "erjan.gavalji@gmail.com"
+      "email": "nativescript@telerik.com",
+      "name": "nativescript"
     },
     {
-      "name": "nsndeck",
-      "email": "nedyalko.nikolov@telerik.com"
+      "email": "nedyalko.nikolov@telerik.com",
+      "name": "nsndeck"
     },
     {
-      "name": "panayot.cankov",
-      "email": "panayot.cankov@telerik.com"
+      "email": "panayot.cankov@telerik.com",
+      "name": "panayot.cankov"
     },
     {
-      "name": "tns-bot",
-      "email": "nativescript@telerik.com"
+      "email": "nativescript@telerik.com",
+      "name": "tns-bot"
     },
     {
-      "name": "vakrilov",
-      "email": "alexander.vakrilov@gmail.com"
+      "email": "alexander.vakrilov@gmail.com",
+      "name": "vakrilov"
     },
     {
-      "name": "vchimev",
-      "email": "Vasil.Chimev@telerik.com"
+      "email": "Vasil.Chimev@telerik.com",
+      "name": "vchimev"
     }
   ],
   "name": "tns-core-modules-widgets",

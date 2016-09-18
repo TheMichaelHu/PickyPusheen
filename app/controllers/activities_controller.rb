@@ -1,13 +1,13 @@
 class ActivitiesController < ApplicationController
   def index
-    user = params[:user_id]
+    user = User.find(params[:user_id])
     friend_ids = user.friends.map(&:id)
     swiped = user.swipes.map(&:activity_id)
     render :json => Activity.where(user_id: friend_ids).where.not(id: swiped)
   end
 
   def create
-    user = params[:user_id]
+    user = User.find(params[:user_id])
     activity = Activity.create!(activity_params.merge({user: user}))
     render :json => activity
   end
