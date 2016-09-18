@@ -1,4 +1,5 @@
 <Page loaded="loaded">
+<<<<<<< HEAD
     <GridLayout>
         <ListView items="{{ activityList }}" itemTap="selectActivity">
             <ListView.itemTemplate>
@@ -6,4 +7,6 @@
             </ListView.itemTemplate>
         </ListView>
     </GridLayout>
+=======
+>>>>>>> master
 </Page>
