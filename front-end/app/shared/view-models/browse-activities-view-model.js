@@ -19,10 +19,11 @@ function ActivityListViewModel(items) {
                 viewModel.push({
                     id: data[i].id,
                     title: data[i].title,
+                    description: data[i].description,
                     is_nerd: data[i].is_nerd
                 });
 
-                console.log(data[i].title);
+                viewModel.reverse();
             }
         });
     };

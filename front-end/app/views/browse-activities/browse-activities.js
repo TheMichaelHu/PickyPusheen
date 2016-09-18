@@ -3,8 +3,11 @@ var Observable = require("data/observable").Observable;
 var ObservableArray = require("data/observable-array").ObservableArray;
 var ActivityListViewModel = require("../../shared/view-models/browse-activities-view-model");
 var gestures = require("ui/gestures");
+var LabelModule = require("ui/label");
 
 var activityList = new ActivityListViewModel([]);
+
+var label = new LabelModule.Label();
 
 var pageData = new Observable({
     activityList: activityList,
@@ -26,4 +29,6 @@ exports.loaded = function(args) {
 
     activityList.empty();
     activityList.load();
+
+    label.text = activityList.title + " - " + activityList.description;
 };
