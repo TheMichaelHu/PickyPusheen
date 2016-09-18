@@ -3,13 +3,15 @@ class ActivitiesController < ApplicationController
   before_filter :authenticate_user!
 
   def index
-    friend_ids = current_user.friends.map(&:id)
-    swiped = current_user.swipes.map(&:activity_id)
+    user = User.find(params[:user_id])
+    friend_ids = user.friends.map(&:id)
+    swiped = user.swipes.map(&:activity_id)
     render :json => Activity.where(user_id: friend_ids).where.not(id: swiped)
   end
 
   def create
-    activity = Activity.create!(activity_params.merge({user: current_user}))
+    user = User.find(params[:user_id])
+    activity = Activity.create!(activity_params.merge({user: user}))
     render :json => activity
   end
 
