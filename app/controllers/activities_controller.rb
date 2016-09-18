@@ -1,6 +1,7 @@
 class ActivitiesController < ApplicationController
+  skip_before_action :verify_authenticity_token
   before_filter :authenticate_user!
-  
+
   def index
     friend_ids = current_user.friends.map(&:id)
     swiped = current_user.swipes.map(&:activity_id)
