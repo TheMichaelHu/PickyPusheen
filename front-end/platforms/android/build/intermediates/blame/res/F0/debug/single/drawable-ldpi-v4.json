@@ -1,18 +1,14 @@
 [
     {
-        "merged": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/background.png",
-        "source": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/drawable-ldpi/background.png"
+        "merged": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/background.png",
+        "source": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/drawable-ldpi/background.png"
     },
     {
-        "merged": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/icon.png",
-        "source": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/drawable-ldpi/icon.png"
+        "merged": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/logo.png",
+        "source": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/drawable-ldpi/logo.png"
     },
     {
-        "merged": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/logo.png",
-        "source": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/drawable-ldpi/logo.png"
-    },
-    {
-        "merged": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/ic_menu_delete.png",
-        "source": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/drawable-ldpi/ic_menu_delete.png"
+        "merged": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/drawable-ldpi/icon.png"
     }
 ]

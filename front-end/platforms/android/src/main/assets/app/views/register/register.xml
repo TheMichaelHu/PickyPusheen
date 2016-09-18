@@ -1,6 +1,6 @@
 <Page loaded="loaded">
     <StackLayout orientation="vertical">
-        <Image src="res://pusheen" stretch="none" horizontalAlignment="center" />
+        <Image src="~/images/pusheen.png" stretch="none" horizontalAlignment="center" />
 
         <TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
         <TextField id="username" text="{{ username }}" hint="Username" autocorrect="false" autocapitalizationType="none" />

@@ -1,16 +1,12 @@
 class ActivitiesController < ApplicationController
-  skip_before_action :verify_authenticity_token
-
   def index
-    user = User.find(params[:user_id])
-    friend_ids = user.friends.map(&:id)
-    swiped = user.swipes.map(&:activity_id)
-    render :json => Activity.order(created_at: :desc).where(user_id: friend_ids).where.not(id: swiped)
+    friend_ids = current_user.friends.map(&:id)
+    swiped = current_user.swipes.map(&:activity_id)
+    render :json => Activity.where(user_id: friend_ids).where.not(id: swiped)
   end
 
   def create
-    user = User.find(params[:user_id])
-    activity = Activity.create!(activity_params.merge({user: user}))
+    activity = Activity.create!(activity_params.merge({user: current_user}))
     render :json => activity
   end
 
