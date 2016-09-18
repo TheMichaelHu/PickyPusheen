@@ -1,5 +1,5 @@
 module.exports = {
     signinUrl: "https://picky-pusheen.herokuapp.com/users/sign_in",
     registerUrl: "https://picky-pusheen.herokuapp.com/users",
-    getActivitiesUrl: "https://picky-pusheen.herokuapp.com/activities"
+    getActivitiesUrl: "https://picky-pusheen.herokuapp.com/activities?user_id=1"
 };

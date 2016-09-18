@@ -15,10 +15,16 @@ function ActivityListViewModel(items) {
         .then(function(response) {
             return response.json();
         }).then(function(data) {
-            data.Result.forEach(function(activity) {
-                viewModel.push(activity);
-                console.log(activity);
-            });
+            console.log(data.Result);
+            for (var i = 0; i < data.length; i++) {
+                viewModel.push({
+                    id: data[i].id,
+                    title: data[i].title,
+                    is_nerd: data[i].is_nerd
+                });
+
+                console.log(data[i].title);
+            }
         });
     };
 

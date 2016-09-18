@@ -8,7 +8,8 @@ var page;
 var activityList = new ActivityListViewModel([]);
 
 var pageData = new Observable({
-    activityList: activityList
+    activityList: activityList,
+    activity: ""
 });
 
 exports.selectActivity = function() {
@@ -17,8 +18,17 @@ exports.selectActivity = function() {
 
 exports.loaded = function(args) {
     page = args.object;
+    var listView = page.getViewById("activityList");
+
     page.bindingContext = pageData;
 
     activityList.empty();
-    activityList.load();
+    pageData.set("isLoading", true);
+    activityList.load().then(function() {
+        pageData.set("isLoading", false);
+        listView.animate({
+            opacity: 1,
+            duration: 1000
+        });
+    });
 };

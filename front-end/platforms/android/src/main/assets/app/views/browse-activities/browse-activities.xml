@@ -1,6 +1,6 @@
 <Page loaded="loaded">
     <GridLayout>
-        <ListView items="{{ activityList }}" itemTap="selectActivity">
+        <ListView items="{{ activityList }}" itemTap="selectActivity" row="1" colspan="2">
             <ListView.itemTemplate>
                 <Label text="{{ activity }}" horizontalAlignment="left" verticalAlignment="center"/>
             </ListView.itemTemplate>
