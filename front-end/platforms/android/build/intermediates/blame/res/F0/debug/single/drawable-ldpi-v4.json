@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/background.png",
+        "source": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/logo.png",
+        "source": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    }
+]
