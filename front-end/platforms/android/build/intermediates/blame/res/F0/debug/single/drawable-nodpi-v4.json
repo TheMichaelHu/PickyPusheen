@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/build/intermediates/res/merged/F0/debug/drawable-nodpi-v4/splash_screen.xml",
-        "source": "/home/matt/Documents/HackMIT/PickyPusheen/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
+        "merged": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/res/merged/F0/debug/drawable-nodpi-v4/splashscreen.9.png",
+        "source": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/drawable-nodpi/splashscreen.9.png"
+    },
+    {
+        "merged": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/build/intermediates/res/merged/F0/debug/drawable-nodpi-v4/splash_screen.xml",
+        "source": "/home/michael/Documents/Projects/PickyPusheen/front-end/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
     }
 ]

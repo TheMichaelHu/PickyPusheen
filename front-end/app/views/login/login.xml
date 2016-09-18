@@ -1,6 +1,6 @@
 <Page loaded="loaded">
     <StackLayout orientation="vertical">
-        <Image src="~/images/pusheen.png" stretch="none" horizontalAlignment="center" />
+        <Image src="res://pusheen" stretch="none" horizontalAlignment="center" />
 
         <TextField id="username" text="{{ username }}" hint="Username" autocorrect="false" autocapitalizationType="none" />
         <TextField id="password" text="{{ password }}" hint="Password" secure="true"/>
