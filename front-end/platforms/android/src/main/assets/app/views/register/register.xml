@@ -1,0 +1,12 @@
+<Page loaded="loaded">
+    <StackLayout orientation="vertical">
+        <Image src="~/images/pusheen.png" stretch="none" horizontalAlignment="center" />
+
+        <TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField id="username" text="{{ username }}" hint="Username" autocorrect="false" autocapitalizationType="none" />
+        <TextField id="password" text="{{ password }}" hint="Password" secure="true"/>
+        <TextField id="confirmedPassword" text="{{ confirmedPassword }}" hint="Confirm your password" secure="true"/>
+
+        <Button text="Create account" tap="createAccount"/>
+    </StackLayout>
+</Page>
