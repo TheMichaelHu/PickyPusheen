@@ -7,4 +7,7 @@ class User < ActiveRecord::Base
   has_many :buttons
   has_many :activities
   has_many :swipes
+  has_many :friendships
+  has_many :friend_requests
+  has_many :friends, :through => :friendships
 end

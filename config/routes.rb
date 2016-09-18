@@ -1,5 +1,13 @@
 Rails.application.routes.draw do
   devise_for :users, :controllers => {sessions: 'sessions', registrations: 'registrations'}  
+  
+  get 'activties' => 'activities#index'
+  post 'activties/create' => 'activities#create'
+  post 'activites/:id/left' => 'swipes#swipe_left'
+  post 'activites/:id/right' => 'swipes#swipe_right'
+
+  get 'buttons/create' => 'buttons#create'
+  get 'buttons/:slug' => 'buttons#press'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
