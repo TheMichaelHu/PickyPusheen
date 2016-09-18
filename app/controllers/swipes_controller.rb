@@ -1,4 +1,6 @@
 class SwipesController < ApplicationController
+  before_filter :authenticate_user!
+  
   def swipe_left
     Swipe.create!(user: current_user, activity_id: params[:id], yes: false)
     render :nothing => true, :status => 200, :content_type => 'text/html'

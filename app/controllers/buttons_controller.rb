@@ -1,4 +1,6 @@
 class ButtonsController < ApplicationController
+  before_filter :authenticate_user!, except: [:press]
+
   def create
     template = Template.new!(template_params())
     button = Button.new!(user: current_user, template: template)
